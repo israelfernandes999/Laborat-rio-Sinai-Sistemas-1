@@ -1,7 +1,7 @@
-# Laboratório 1 - Sinais e Sistemas Lineares
+# Laboratório 1 - Sinais e Sistemas 
 
 ## Descrição
-Códigos desenvolvidos para o Laboratório 1 da disciplina de Sinais e Sistemas Lineares, contemplando análise de sinais contínuos, discretos e processamento de áudio.
+Códigos desenvolvidos para o Laboratório 1 da disciplina de Sinais e Sistemas, contemplando análise de sinais contínuos, discretos e processamento de áudio.
 
 ## Tecnologias Utilizadas
 - Python 3.x
@@ -21,3 +21,4 @@ Códigos desenvolvidos para o Laboratório 1 da disciplina de Sinais e Sistemas 
 
 ## Resultados
 Análise completa de sinais e implementação de transformações temporais em áudio.
+
